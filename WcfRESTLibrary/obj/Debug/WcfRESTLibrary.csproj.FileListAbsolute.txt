@@ -1,0 +1,7 @@
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfRESTLibrary\bin\Debug\WcfRESTLibrary.dll.config
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfRESTLibrary\bin\Debug\WcfRESTLibrary.dll
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfRESTLibrary\bin\Debug\WcfRESTLibrary.pdb
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfRESTLibrary\obj\Debug\WcfRESTLibrary.csprojAssemblyReference.cache
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfRESTLibrary\obj\Debug\WcfRESTLibrary.csproj.CoreCompileInputs.cache
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfRESTLibrary\obj\Debug\WcfRESTLibrary.dll
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfRESTLibrary\obj\Debug\WcfRESTLibrary.pdb

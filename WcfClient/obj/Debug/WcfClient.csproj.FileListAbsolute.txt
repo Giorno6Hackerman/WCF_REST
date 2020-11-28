@@ -1,0 +1,10 @@
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\bin\Debug\WcfClient.exe.config
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\bin\Debug\WcfClient.exe
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\bin\Debug\WcfClient.pdb
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\obj\Debug\WcfClient.csprojAssemblyReference.cache
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\obj\Debug\WcfClient.mainForm.resources
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\obj\Debug\WcfClient.Properties.Resources.resources
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\obj\Debug\WcfClient.csproj.GenerateResource.cache
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\obj\Debug\WcfClient.exe
+D:\prog\4 sem\KSIS\Labs\Lab_6\WcfRESTLibrary\WcfClient\obj\Debug\WcfClient.pdb
